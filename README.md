@@ -44,8 +44,8 @@ I'm a passionate **[Your Role]** with **[X years]** of experience building digit
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithyouwan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithyouwan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
@@ -73,20 +73,13 @@ Description of your third featured project and what makes it special.
 - [🚀 Live Demo](https://your-demo-link.com)
 
 ## 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=react-dark&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithyouwan&theme=react-dark&hide_border=true" width="100%">
 
 ## 🏅 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithyouwan]&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://your-blog.com/post1)
-- [Blog Post Title 2](https://your-blog.com/post2)
-- [Blog Post Title 3](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with Me
 
@@ -97,22 +90,4 @@ Description of your third featured project and what makes it special.
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-</div>
-
-## 💝 Support My Work
-
-If you like what I do, maybe consider buying me a coffee? 🥺👉👈
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 </div>
